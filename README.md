@@ -1,6 +1,6 @@
 # infrared_3D_reconstruction
 ## 光激励红外三维重构目标检测
-此项目通过AGV搭载机械臂以及光激励红外设备，激光导航AGV靠近试件，根据RGBD相机重构三维场景，确定检测试件及其三维模型，根据三维模型划分红外光激励检测设备的运动位姿，控制机械臂运动到指定位姿完成扫查试件；融合高清视觉与红外检测结果，并投影到三维模型中增强显示。<br>
+此项目是将光激励红外结合深度相机，联合机械臂自动扫查扫查系统，实现自动扫查与三维重构。<br>
 <img src="https://user-images.githubusercontent.com/54426524/163543969-5eef0645-95ee-4053-a975-aaa4c35f2fe9.PNG" height="290px">
 <img src="https://user-images.githubusercontent.com/54426524/163543973-1bf3b3b7-81a2-4e2a-b0b4-ae56588ca05e.PNG" height="290px"><br>
 ## 代码环境:
