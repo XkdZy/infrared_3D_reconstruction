@@ -12,7 +12,7 @@
 ## 代码流程：
 + 标定红外系统、深度相机和机器人的变换关系<br>
 + 采集实验数据，包含红外图像、深度图像、机械臂及AGV当前姿态<br>
-+ 人机交互、三维重构、RGBD、HD RGB、Thermal RGB数据融合<br>
++ RGBD三维重构，RGBD、HD RGB、Thermal RGB数据融合<br>
 
 ## 实验结果
 <img src="https://user-images.githubusercontent.com/54426524/163544509-78d6ee3d-0d8c-4aca-bc2f-cca8226b957e.PNG" width="320">
